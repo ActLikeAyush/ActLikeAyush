@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ActLikeAyush
-- 👀 I’m interested in web develpoment
+- 👀 I’m interested in Development
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on spring project 
 - ⚡ Fun fact: meet me after 12AM
